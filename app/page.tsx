@@ -1,4 +1,5 @@
 'use client';
+// Main entry point for MoodScan AI
 
 import React, { useState, useEffect } from 'react';
 import MoodInput from '@/components/MoodInput';
